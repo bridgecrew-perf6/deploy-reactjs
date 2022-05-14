@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/huudinh/deploy-reactjs/static/css/main.094497eb.css",
+    "main.js": "/huudinh/deploy-reactjs/static/js/main.4a2d9d38.js",
+    "index.html": "/huudinh/deploy-reactjs/index.html",
+    "main.094497eb.css.map": "/huudinh/deploy-reactjs/static/css/main.094497eb.css.map",
+    "main.4a2d9d38.js.map": "/huudinh/deploy-reactjs/static/js/main.4a2d9d38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.094497eb.css",
+    "static/js/main.4a2d9d38.js"
+  ]
+}
